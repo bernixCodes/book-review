@@ -1,0 +1,191 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "averageRating": 4.2,
+      "details": {
+        "publishedYear": 1925,
+        "genre": "Fiction",
+        "description": "A novel set in the Roaring Twenties, centered around the enigmatic millionaire Jay Gatsby and his obsession with the beautiful Daisy Buchanan.",
+        "reviews": [
+          {
+            "userId": 101,
+            "userName": "John Doe",
+            "rating": 5,
+            "comment": "A brilliant portrayal of the Jazz Age!"
+          },
+          {
+            "userId": 102,
+            "userName": "Jane Smith",
+            "rating": 4,
+            "comment": "Beautifully written but the ending is tragic."
+          },
+          {
+            "userId": 4,
+            "userName": "Bernice",
+            "rating": "3",
+            "comment": "hmmm"
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "averageRating": 4.8,
+      "details": {
+        "publishedYear": 1960,
+        "genre": "Southern Gothic, Bildungsroman",
+        "description": "A story of racial injustice and childhood innocence set in the Depression-era South, seen through the eyes of young Scout Finch.",
+        "reviews": [
+          {
+            "userId": 103,
+            "userName": "Alice Green",
+            "rating": 5,
+            "comment": "A must-read for its powerful message."
+          },
+          {
+            "userId": 4,
+            "userName": "jfbhdbjnr",
+            "rating": "2",
+            "comment": "34fr87t67eghndcs"
+          },
+          {
+            "userId": 4,
+            "userName": "oiuytrefdsfgryhuiokp",
+            "rating": "3",
+            "comment": "p9o876y5trewdsfbv"
+          }
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "averageRating": 4.2,
+      "details": {
+        "publishedYear": 1925,
+        "genre": "Fiction",
+        "description": "A novel set in the Roaring Twenties, centered around the enigmatic millionaire Jay Gatsby and his obsession with the beautiful Daisy Buchanan.",
+        "reviews": [
+          {
+            "userId": 101,
+            "userName": "John Doe",
+            "rating": 5,
+            "comment": "A brilliant portrayal of the Jazz Age!"
+          },
+          {
+            "userId": 102,
+            "userName": "Jane Smith",
+            "rating": 4,
+            "comment": "Beautifully written but the ending is tragic."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "averageRating": 4.8,
+      "details": {
+        "publishedYear": 1960,
+        "genre": "Southern Gothic, Bildungsroman",
+        "description": "A story of racial injustice and childhood innocence set in the Depression-era South, seen through the eyes of young Scout Finch.",
+        "reviews": [
+          {
+            "userId": 103,
+            "userName": "Alice Green",
+            "rating": 5,
+            "comment": "A must-read for its powerful message."
+          }
+        ]
+      }
+    },
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "averageRating": 4.2,
+      "details": {
+        "publishedYear": 1925,
+        "genre": "Fiction",
+        "description": "A novel set in the Roaring Twenties, centered around the enigmatic millionaire Jay Gatsby and his obsession with the beautiful Daisy Buchanan.",
+        "reviews": [
+          {
+            "userId": 101,
+            "userName": "John Doe",
+            "rating": 5,
+            "comment": "A brilliant portrayal of the Jazz Age!"
+          },
+          {
+            "userId": 102,
+            "userName": "Jane Smith",
+            "rating": 4,
+            "comment": "Beautifully written but the ending is tragic."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "averageRating": 4.8,
+      "details": {
+        "publishedYear": 1960,
+        "genre": "Southern Gothic, Bildungsroman",
+        "description": "A story of racial injustice and childhood innocence set in the Depression-era South, seen through the eyes of young Scout Finch.",
+        "reviews": [
+          {
+            "userId": 103,
+            "userName": "Alice Green",
+            "rating": 5,
+            "comment": "A must-read for its powerful message."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ad37",
+      "title": "3freoiydugchbn",
+      "author": "rfep[dpoiokj",
+      "averageRating": 5,
+      "details": {
+        "publishedYear": "reree",
+        "genre": "efdvr",
+        "description": "tgrtbet554t45",
+        "reviews": []
+      }
+    },
+    {
+      "id": "c0bc",
+      "title": "Nina Hicks",
+      "author": "Non est deleniti ali",
+      "averageRating": 5,
+      "details": {
+        "publishedYear": "1993",
+        "genre": "Ratione alias eu ab ",
+        "description": "Nulla recusandae Ci",
+        "reviews": [
+          {
+            "userId": 4,
+            "userName": "Stone Levy",
+            "rating": "5",
+            "comment": "Architecto animi di"
+          },
+          {
+            "userId": 4,
+            "userName": "Eugenia Gaines",
+            "rating": "5",
+            "comment": "Omnis et ab ut error"
+          }
+        ]
+      }
+    }
+  ]
+}
